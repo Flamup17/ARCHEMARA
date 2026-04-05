@@ -1,2 +1,11 @@
 # ARCHEMARA
-God Mode / Inf Damage and more
+-God Mod
+-Inf Damage
+-Inf Stamina
+-Extanded Hitbox
+-Fast Attack
+-Inf Mana
+-Bring dropped Loots
+-Mobs Esp / Loot Esp / Chest Esp
+-Anti AFK
+-Infinite Yield
